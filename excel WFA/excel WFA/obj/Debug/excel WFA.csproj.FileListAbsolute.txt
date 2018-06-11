@@ -1,0 +1,13 @@
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\bin\Debug\excel WFA.exe.config
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\bin\Debug\excel WFA.exe
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\bin\Debug\excel WFA.pdb
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\bin\Debug\Excel.dll
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\bin\Debug\Excel.pdb
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel_WFA.Form1.resources
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel_WFA.Properties.Resources.resources
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel WFA.csproj.GenerateResource.cache
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel WFA.csproj.CoreCompileInputs.cache
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel WFA.csproj.CopyComplete
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel WFA.exe
+D:\Pwr - zajęcia\semestr 4\Programowanie obiektowe L - Mgr inż. Tomasz Szymański\C#\excel YT\excel WFA\excel WFA\obj\Debug\excel WFA.pdb
